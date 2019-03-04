@@ -13,3 +13,6 @@
 # IMDB_SentimentAnalysis
 
 
+
+Dataset is not included in the repository. Need to download seperately.
+Dataset Link: http://ai.stanford.edu/~amaas/data/sentiment/
